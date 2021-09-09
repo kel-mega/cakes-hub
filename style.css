@@ -1,11 +1,11 @@
 body {
-    background-color: darkgreen;
+    background-color: white;
     width: 100%;
     margin: 0px;
 }
 
 header {
-    background-color: blue;
+    background-color: pink;
     color: darksalmon;
     text-align: center;
     padding: 2rem;
@@ -61,7 +61,7 @@ footer {
     clear: both;
     text-align: center;
     text-transform: capitalize;
-    background-color: tomato;
+    background-color: pink;
     color: yellow;
 }
 
