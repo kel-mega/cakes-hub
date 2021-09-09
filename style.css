@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: pink;
+    background-color: tomato;
     color: darksalmon;
     text-align: center;
     padding: 2rem;
@@ -53,7 +53,7 @@ a {
 }
 
 a:hover {
-    background-color: sienna;
+    background-color: white;
     color: slategrey;
 }
 
